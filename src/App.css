@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.joke__container {
+  font-size: 1.5rem;
+}
+
+.showAnswerButton {
+  padding: 1rem 2rem;
+  border: 1px solid grey;
+  margin: 1rem 0;
+}
+
+.newJokeButton {
+  margin-top: 3rem;
+  display: inline-block;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
